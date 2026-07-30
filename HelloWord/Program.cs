@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("My first Git project");
+            System.Console.WriteLine("first cross repository test");
+
         }
     }
 }
