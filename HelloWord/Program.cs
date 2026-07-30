@@ -13,6 +13,8 @@
             Console.WriteLine("you entered: " + firstName + lastName);
             Console.WriteLine("and you are " + age + " years old");
             Console.ReadKey();
+            // hello
+
 
 
         }
